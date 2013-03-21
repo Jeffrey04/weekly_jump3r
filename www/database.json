@@ -1,0 +1,204 @@
+[
+    {
+        "multiple": "0",
+        "level": "0",
+        "name": "無效徽章",
+        "caption": "徽章沒有這個啦",
+        "description": "",
+        "medal": "heart.png"
+    },
+    {
+        "multiple": "0",
+        "level": "0",
+        "name": "參與徽章",
+        "caption": "我有跳坑好熱血",
+        "description": "參與者皆可貼上這個標籤。",
+        "medal": "heart.png"
+    },
+    {
+        "multiple": "1",
+        "min_week": "3",
+        "name": "每週三文",
+        "description": "每週發三文（或以上）就可貼上這個標籤。可升級。",
+        "tiers":
+        [
+            {
+                "min_count": "1",
+                "level": "1",
+                "caption": "每週三文快來看",
+                "medal": "medal_bronze_1.png"
+            },
+            {
+                "min_count": "5",
+                "level": "2",
+                "caption": "每週三文撒小花",
+                "medal": "medal_bronze_1.png"
+            },
+            {
+                "min_count": "13",
+                "level": "3",
+                "caption": "每週三文轉圈圈",
+                "medal": "medal_silver_1.png"
+            },
+            {
+                "min_count": "20",
+                "level": "4",
+                "caption": "每週三文我好強",
+                "medal": "medal_silver_1.png"
+            },
+            {
+                "min_count": "33",
+                "level": "5",
+                "caption": "每週三文我最強",
+                "medal": "medal_gold_1.png"
+            }
+        ]
+    },
+    {
+        "multiple": "1",
+        "name": "每週七文",
+        "min_week": "7",
+        "description": "每週發七文（或以上）就可貼上這標籤。可升級。",
+        "tiers":
+        [
+            {
+                "min_count": "1",
+                "level": "1",
+                "caption": "每週七文溼碎啦",
+                "medal": "medal_bronze_1.png"
+            },
+            {
+                "min_count": "3",
+                "level": "2",
+                "caption": "每週七文很淡定",
+                "medal": "medal_bronze_1.png"
+            },
+            {
+                "min_count": "10",
+                "level": "3",
+                "caption": "每週七文誰怕誰",
+                "medal": "medal_silver_1.png"
+            },
+            {
+                "min_count": "18",
+                "level": "4",
+                "caption": "每週七文多哏王",
+                "medal": "medal_silver_1.png"
+            },
+            {
+                "min_count": "30",
+                "level": "5",
+                "caption": "每週七文超熱血",
+                "medal": "medal_gold_1.png"
+            }
+        ]
+    },
+    {
+        "multiple": "4",
+        "name": "四三十二",
+        "min_week": "3",
+        "description": "每四周發滿十二篇（或以上）就可貼上此徽章。可升級。",
+        "tiers":
+        [
+            {
+                "min_count": "1",
+                "level": "1",
+                "caption": "四三十二快拍手",
+                "medal": "medal_bronze_1.png"
+            },
+            {
+                "min_count": "4",
+                "level": "2",
+                "caption": "四三十二小意思",
+                "medal": "medal_silver_1.png"
+            },
+            {
+                "min_count": "7",
+                "level": "3",
+                "caption": "四三十二沒難度",
+                "medal": "medal_silver_1.png"
+            },
+            {
+                "min_count": "10",
+                "level": "4",
+                "caption": "四三十二太簡單",
+                "medal": "medal_gold_1.png"
+            }
+        ]
+    },
+    {
+        "multiple": "4",
+        "name": "四七廿八",
+        "min_week": "7",
+        "description": "每四周發滿廿八篇（或以上）就可貼上次標籤。可升級",
+        "tiers":
+        [
+            {
+                "min_count": "1",
+                "level": "1",
+                "caption": "四七廿八我很威",
+                "medal": "medal_bronze_1.png"
+            },
+            {
+                "min_count": "3",
+                "level": "2",
+                "caption": "四七廿八猴賽雷",
+                "medal": "medal_silver_1.png"
+            },
+            {
+                "min_count": "6",
+                "level": "3",
+                "caption": "四七廿八好威呀",
+                "medal": "medal_silver_1.png"
+            },
+            {
+                "min_count": "9",
+                "level": "4",
+                "caption": "四七廿八神台級",
+                "medal": "medal_gold_1.png"
+            }
+        ]
+    },
+    {
+        "level": "0",
+        "multiple": "0",
+        "name": "任務成功",
+        "caption": "任務成功贏到完",
+        "description": "完成任務直到截止都沒有失敗過，就可貼上此標籤。",
+        "medal": "rosette.png"
+    },
+    {
+        "multiple": "10",
+        "name": "十篇記錄",
+        "description": "總共為了跳坑活動寫了十篇文章。可升級",
+        "tiers":
+        [
+            {
+                "min_count": "1",
+                "level": "1",
+                "caption": "十篇隨便就寫完",
+                "medal": "medal_bronze_1.png"
+            },
+            {
+                "min_count": "5",
+                "level": "2",
+                "caption": "五十篇不過浮雲",
+                "medal": "medal_silver_1.png"
+            },
+            {
+                "min_count": "10",
+                "level": "3",
+                "caption": "寫一百篇變傳奇",
+                "medal": "medal_gold_1.png"
+            }
+        ]
+    },
+    {
+        "multiple": "0",
+        "level": "0",
+        "name": "支持徽章",
+        "caption": "支持跳坑轉圈圈",
+        "description": "支持者和粉絲皆可貼上這個標籤。",
+        "medal": "heart.png"
+    }
+]
