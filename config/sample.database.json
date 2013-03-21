@@ -1,0 +1,8 @@
+{
+    "driver": "pgsql",
+    "host": "localhost",
+    "port": "5432",
+    "username": "test",
+    "password": "abc123",
+    "database": "test"
+}
